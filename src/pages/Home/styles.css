@@ -1,0 +1,73 @@
+.conteudo{
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    font-family: 'Roboto';
+}
+
+.background{
+    height: 100vh;
+    position: relative ;
+    margin-right: 150vh;
+}
+
+
+.info{
+    width: 60%;
+    position: absolute;
+    height: 80vh;
+    margin-right: 40px;
+    margin-top: 40px;
+    color: #FFFF;
+    
+}
+
+
+
+.profile{
+    display: flex;
+    margin: 40px 0;
+}
+
+
+
+.profile-img{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    border: 2px solid #E5E5E5;
+    margin-right: 32px;
+    margin-left: 10px;
+}
+
+.profile-infos h3{
+    color: #FFFF;
+    font-size: 24px;
+    margin: 0;
+}
+
+.profile-infos span{
+    display: block;
+    color: #999999;
+    font-size: 12px;
+    margin: 0;
+}
+
+.profile-infos p{
+    color: #999999;
+    font-size: 12px;
+    margin: 0;
+}
+
+.info hr{
+    flex-direction:initial;
+    width: 120vh;
+}
+
+.repositorios h4{
+    font-size: 24px;
+    margin-top: 20px;
+    margin-left: 50vh;
+    
+}

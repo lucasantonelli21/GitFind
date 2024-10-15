@@ -1,0 +1,19 @@
+input{
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 1px solid #999999;
+    border-radius: 22px;
+    min-width: 250px;
+    width: 80%;
+    margin-right: 12px;
+    background: transparent;
+    font-size: 18px;
+    padding: 10px;
+    
+}
+
+input:hover{
+    border: 1px solid #999999;
+    background: #FFFF;
+    color: #2D333B;
+}
